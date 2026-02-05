@@ -1,14 +1,12 @@
 # 🧾 SmartReceipt - AI-Powered Personal Finance Tracker
 
-![SmartReceipt Banner](https://via.placeholder.com/1200x400/7e22ce/ffffff?text=SmartReceipt)
-
 > **Scan receipts in real-time, extract data with AI, and gain intelligent insights into your spending habits.**
 
 Built with **Google Gemini 3 API** for the Gemini 3 Hackathon.
 
 ## 🌟 Live Demo
 
-**🔗 [Try Live Demo](https://your-app.vercel.app/demo)** ← Click to load sample data and explore!
+**🔗 [Try Live Demo](https://receipt-analyser-alpha.vercel.app/)**
 
 ## 🎥 Demo Video
 
@@ -166,15 +164,11 @@ http://localhost:3000
 - [ ] Bill payment reminders
 - [ ] Shared household budgets
 
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file
-
 ## 👨‍💻 Author
 
 **Amar Shaik**
 - GitHub: [@AmarShaik](https://github.com/AmarShaik)
-- Email: your.email@example.com
+- Email: shaikamar907@gmail.com
 
 ## 🙏 Acknowledgments
 
