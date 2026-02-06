@@ -1,50 +1,50 @@
-# 🧾 SmartReceipt - AI-Powered Personal Finance Tracker
+# SmartReceipt - AI-Powered Personal Finance Tracker
 
 > **Scan receipts in real-time, extract data with AI, and gain intelligent insights into your spending habits.**
 
 Built with **Google Gemini 3 API** for the Gemini 3 Hackathon.
 
-## 🌟 Live Demo
+## Live Demo
 
 **🔗 [Try Live Demo](https://receipt-analyser-alpha.vercel.app/)**
 
-## 🎥 Demo Video
+## Demo Video
 
 *[Watch 3-minute demo on YouTube](https://youtu.be/g8tOPjKFJ7o)*
 
-## ✨ Features
+## Features
 
-### 🤖 AI-Powered Receipt Scanning
+### AI-Powered Receipt Scanning
 - Upload receipt images and extract data automatically using **Gemini 3 Vision API**
 - Supports multiple formats: photos, scans, screenshots
 - Extracts: merchant name, date, items, prices, categories, payment method
 
-### 📊 Smart Analytics Dashboard
+### Smart Analytics Dashboard
 - Visual spending breakdown with interactive charts
 - Category-wise expense tracking
 - Monthly/weekly spending trends
 - Top merchants and spending patterns
 
-### 💡 Intelligent Insights
+### Intelligent Insights
 - **Gemini 3 Reasoning** generates personalized financial advice
 - Spending pattern analysis
 - Budget recommendations
 - Saving opportunities with estimated amounts
 - Financial health score (0-100)
 
-### 💰 Budget Management
+### Budget Management
 - Set monthly budgets per category
 - Real-time budget tracking with progress bars
 - Color-coded alerts (safe, warning, danger, critical)
 - AI-suggested optimal budgets
 
-### 🔍 Transaction History
+### Transaction History
 - Search and filter receipts
 - Sort by date, amount, or merchant
 - Edit and delete transactions
 - Export data to CSV
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: Next.js 14, React 18, Tailwind CSS
 - **AI**: Google Gemini 3 API (Vision + Text Generation)
@@ -53,7 +53,7 @@ Built with **Google Gemini 3 API** for the Gemini 3 Hackathon.
 - **Storage**: LocalStorage (demo) / MongoDB ready
 - **Deployment**: Vercel
 
-## 🚀 How Gemini 3 Powers SmartReceipt
+## How Gemini 3 Powers SmartReceipt
 
 ### 1. **Vision API** - Receipt Scanning
 ```javascript
@@ -81,7 +81,7 @@ Built with **Google Gemini 3 API** for the Gemini 3 Hackathon.
 }
 ```
 
-## 📦 Installation
+## Installation
 
 ### Prerequisites
 - Node.js 18+
@@ -116,7 +116,7 @@ npm run dev
 http://localhost:3000
 ```
 
-## 🧪 Testing
+## Testing
 
 ### Try the Demo
 1. Visit `/demo` page
@@ -143,7 +143,7 @@ http://localhost:3000
 ### AI Insights
 ![Insights](screenshots/insights.png)
 
-## 🎯 Hackathon Highlights
+## Hackathon Highlights
 
 - ✅ **Multimodal AI**: Uses Gemini 3 Vision for image processing
 - ✅ **Advanced Reasoning**: Generates personalized financial insights
@@ -152,7 +152,7 @@ http://localhost:3000
 - ✅ **User Experience**: Beautiful, intuitive interface
 - ✅ **Scalability**: Ready for production with database integration
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - [ ] MongoDB integration for persistent storage
 - [ ] User authentication (NextAuth.js)
@@ -164,13 +164,13 @@ http://localhost:3000
 - [ ] Bill payment reminders
 - [ ] Shared household budgets
 
-## 👨‍💻 Author
+## Author
 
 **Amar Shaik**
 - GitHub: [@AmarShaik](https://github.com/AmarShaik)
 - Email: shaikamar907@gmail.com
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Built for the [Gemini 3 Hackathon](https://gemini3.devpost.com/)
 - Powered by [Google Gemini 3 API](https://ai.google.dev/)
@@ -178,4 +178,4 @@ http://localhost:3000
 
 ---
 
-**⭐ If you found this project helpful, please give it a star!**
+**If you found this project helpful, please give it a star!**
