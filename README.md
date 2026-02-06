@@ -129,20 +129,6 @@ http://localhost:3000
 3. Watch Gemini 3 extract the data
 4. View in dashboard
 
-## 📸 Screenshots
-
-### Homepage
-![Homepage](screenshots/home.png)
-
-### Receipt Scanner
-![Scanner](screenshots/scanner.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### AI Insights
-![Insights](screenshots/insights.png)
-
 ## Hackathon Highlights
 
 - ✅ **Multimodal AI**: Uses Gemini 3 Vision for image processing
